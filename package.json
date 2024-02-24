@@ -1,0 +1,13 @@
+{
+  "name": "wsp24-final-assignments-hb",
+  "version": "1.0.0",
+  "description": "Repo for all assignments and Projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js --watch server/"
+  },
+  "keywords": [],
+  "author": "Henry Becker",
+  "license": "ISC"
+}
